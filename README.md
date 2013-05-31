@@ -1,5 +1,7 @@
 # jQuery Pointer Events
 
+[![Selenium Test Status](https://saucelabs.com/browser-matrix/kborchers.svg)](https://saucelabs.com/u/kborchers)
+
 This is a polyfill for [Pointer Events](https://dvcs.w3.org/hg/pointerevents/raw-file/tip/pointerEvents.html), written using jQuery's special events API.
 
 Pointer Events provide a unified event model, which we feel provides a much
